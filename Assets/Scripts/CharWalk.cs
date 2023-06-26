@@ -5,6 +5,7 @@ using UnityEngine;
 public class CharWalk : MonoBehaviour
 {
     [SerializeField] Rigidbody2D _yamato;
+    [SerializeField] BoxCollider2D _yamBox;
     [SerializeField] Animator _yamAnim;
     [SerializeField] Vector2 _move;
     [SerializeField] float _spdMult;
@@ -28,7 +29,7 @@ public class CharWalk : MonoBehaviour
         {
             _spdMult = 6;
             _animMult = 2.5f;
-            _yamAnim.SetFloat("spdMultiply", _animMult) ;
+            _yamAnim.SetFloat("spdMultiply", _animMult);
         }
         else
         {
@@ -43,6 +44,7 @@ public class CharWalk : MonoBehaviour
     {
         _yamato = GetComponent<Rigidbody2D>();
         _yamAnim = GetComponent<Animator>();
+        _yamBox = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
