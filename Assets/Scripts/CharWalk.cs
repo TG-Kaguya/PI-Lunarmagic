@@ -11,7 +11,6 @@ public class CharWalk : MonoBehaviour
     [SerializeField] float _animHori;
     [SerializeField] float _animVert;
     [SerializeField] float _animMult;
-    [SerializeField] bool _faceR;
 
     void Walk()
     {
@@ -28,13 +27,13 @@ public class CharWalk : MonoBehaviour
         if (Input.GetKey("left shift"))
         {
             _spdMult = 6;
-            _animMult = 2;
+            _animMult = 2.5f;
             _yamAnim.SetFloat("spdMultiply", _animMult) ;
         }
         else
         {
             _spdMult = 3;
-            _animMult = 1;
+            _animMult = 1.5f;
             _yamAnim.SetFloat("spdMultiply", _animMult);
         }
     }
