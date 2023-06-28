@@ -25,7 +25,7 @@ public class CharWalk : MonoBehaviour
     }
     private void RunToggle()
     {
-        if (Input.GetKey("left shift"))
+        if (Input.GetKey(KeyCode.LeftShift))
         {
             _spdMult = 6;
             _animMult = 2.5f;
