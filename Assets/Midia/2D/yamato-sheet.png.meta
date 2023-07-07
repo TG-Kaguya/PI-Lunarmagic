@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b011092cb40a06e4082a0ffe210458fd
+guid: 51b9a1fa3ef2ae34e85b09ff6c079500
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -103,71 +103,221 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: tvOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_0
+      name: yamato-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af1ceadb5fa5049b2a93f2def4cf9e
+      internalID: -1252436633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8c29e17330c341b9407023e98bdc1
+      internalID: 1597304716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b054f8e1ac3f6440bfd89802b5c280e
+      internalID: 429211218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13857a1786a4742ac7f0946c969ac2
+      internalID: -1629389218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b8bb60dbfdae4982bf7cf2cf8ee25
+      internalID: 701744995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3d6e8ae164db4fba97d7d392eb6ec
+      internalID: 2077025562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8846e9b31af69a40b1e99a0fb3f8324
+      internalID: -1716845025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79303cafcc0203041aeaa25998b467cf
+      internalID: 637475931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c9c03d33ba7d43819436396ce7b0b
+      internalID: -1254226908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1182fea2a2594288b25cd88dcfe93
+      internalID: -900590524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yamato-sheet_10
       rect:
         serializedVersion: 2
         x: 0
@@ -181,14 +331,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c570528c8c102449b0df9172d6a1504
-      internalID: 267216617
+      spriteID: 5362191b885a6d542a55d2dcada33533
+      internalID: 452782785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_1
+      name: yamato-sheet_11
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e45ba1959ba9ce41bb1f83d627a0016
-      internalID: -461921456
+      spriteID: 4274246a9b5991b40973274f1a89b788
+      internalID: -433529628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_2
+      name: yamato-sheet_12
       rect:
         serializedVersion: 2
         x: 80
@@ -223,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb81b41b9b4e19f49b752b8ee9e649a9
-      internalID: -262236612
+      spriteID: 30aa9386b7d3f684d864a0dbca5639ab
+      internalID: -1536088575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_3
+      name: yamato-sheet_13
       rect:
         serializedVersion: 2
         x: 160
@@ -244,14 +394,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cff85160bfcffc45a82a6440a7e3fc1
-      internalID: -810025804
+      spriteID: 517b29268aaa3d04285af6e2bf485c59
+      internalID: 239493824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_4
+      name: yamato-sheet_14
       rect:
         serializedVersion: 2
         x: 240
@@ -265,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 706b6dac239ff6c42b7f10e2d2642cb9
-      internalID: 1259111702
+      spriteID: df52760de73792f41a72cc06b7f972ac
+      internalID: 1636595817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_5
+      name: yamato-sheet_15
       rect:
         serializedVersion: 2
         x: 320
@@ -286,14 +436,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ac867a86b38852428004842d076d0be
-      internalID: -942815903
+      spriteID: 886761588456ef54e8651e7e0483683a
+      internalID: -1129858922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_6
+      name: yamato-sheet_16
       rect:
         serializedVersion: 2
         x: 400
@@ -307,14 +457,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aef6f73f1e4d6ef43a3d921efe741275
-      internalID: 426663899
+      spriteID: f7c186c6dbbdf314aa5f7ea40f46f859
+      internalID: -397992868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_7
+      name: yamato-sheet_17
       rect:
         serializedVersion: 2
         x: 480
@@ -328,14 +478,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f5279b6c981c9d4781b3c9912e10ed1
-      internalID: -151526876
+      spriteID: 787a130256ffd344cadcf358ad439791
+      internalID: -705332008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_8
+      name: yamato-sheet_18
       rect:
         serializedVersion: 2
         x: 560
@@ -349,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30543072ac3a7964991aeb47bddd26e1
-      internalID: -2145992565
+      spriteID: 845b6d6ab96e94844b836a56fef87578
+      internalID: 1321669160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_9
+      name: yamato-sheet_19
       rect:
         serializedVersion: 2
         x: 640
@@ -370,14 +520,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f299833940a26e40a5cab23dcac8ac6
-      internalID: -1330396138
+      spriteID: 19193a62447046444a3dbd5c3135c3d5
+      internalID: -25940994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_10
+      name: yamato-sheet_20
       rect:
         serializedVersion: 2
         x: 0
@@ -391,14 +541,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c64ad37e5613b24ca6edb79d6ebce8f
-      internalID: 722279387
+      spriteID: c7c448f1feb3524449c39f0c6f6e189b
+      internalID: 1559210305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_11
+      name: yamato-sheet_21
       rect:
         serializedVersion: 2
         x: 0
@@ -412,14 +562,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47903989d017db44da552f05090bdded
-      internalID: -1029714168
+      spriteID: 0f40967beb62a5349ad778f01123f4a4
+      internalID: -1817826430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_12
+      name: yamato-sheet_22
       rect:
         serializedVersion: 2
         x: 80
@@ -433,14 +583,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed31ad4cd44c3544cae9b9c1e45ba8bf
-      internalID: -1824254071
+      spriteID: 93c1f0ea326cf6144aa486e0509ca520
+      internalID: 445535271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_13
+      name: yamato-sheet_23
       rect:
         serializedVersion: 2
         x: 160
@@ -454,14 +604,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d05e14075b89946a59e66a5422ab67
-      internalID: -686284927
+      spriteID: 8e81996fdec7e6347a1aa0392d7b9782
+      internalID: -160131108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_14
+      name: yamato-sheet_24
       rect:
         serializedVersion: 2
         x: 240
@@ -475,14 +625,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ee190d303153d1499aea634484767e8
-      internalID: 470461020
+      spriteID: 74c88ab66658fe248a80f7d7be1dd36d
+      internalID: -785540394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_15
+      name: yamato-sheet_25
       rect:
         serializedVersion: 2
         x: 320
@@ -496,14 +646,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004d4411e5c9fca43b4a2927c6c57b45
-      internalID: 308388381
+      spriteID: c5e3ac637e6b9c543b305b5f3d4633bc
+      internalID: -876328161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_16
+      name: yamato-sheet_26
       rect:
         serializedVersion: 2
         x: 400
@@ -517,14 +667,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1906de2c256ac734684cfc67c77466e2
-      internalID: -335992451
+      spriteID: 1434218fc69d4fc4ea49224dbd6cd092
+      internalID: -2133079684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_17
+      name: yamato-sheet_27
       rect:
         serializedVersion: 2
         x: 480
@@ -538,14 +688,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fe52fee07360904bb57c0843b000a68
-      internalID: 1833575821
+      spriteID: dd136a6522ca69a4e88ad8d9a350f62f
+      internalID: -1554311641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_18
+      name: yamato-sheet_28
       rect:
         serializedVersion: 2
         x: 560
@@ -559,14 +709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334b9d6423536a64b8a3442e11ec7c98
-      internalID: -1961095693
+      spriteID: fa9c2219d67ff384688a7304b58fdcb5
+      internalID: 868353579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_19
+      name: yamato-sheet_29
       rect:
         serializedVersion: 2
         x: 640
@@ -580,14 +730,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ed4d19af351d9f4e88935833984af3e
-      internalID: 1526997103
+      spriteID: a7e132a522df7a24e9a093aa2900aa17
+      internalID: 920886372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_20
+      name: yamato-sheet_30
       rect:
         serializedVersion: 2
         x: 0
@@ -601,14 +751,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3cf9158c5995d344b9f0107f2c95bbf
-      internalID: -1355885794
+      spriteID: 5753301463847d249aed10bd7d8ad0df
+      internalID: -862105891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_21
+      name: yamato-sheet_31
       rect:
         serializedVersion: 2
         x: 0
@@ -622,14 +772,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc488b57f1a019e41b9ea812b84960c0
-      internalID: -1963232602
+      spriteID: 337ae876790843b4c9cd3027247d94ca
+      internalID: 274806830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_22
+      name: yamato-sheet_32
       rect:
         serializedVersion: 2
         x: 80
@@ -643,14 +793,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fb9c11fa81086e4fbabb763ba7ab468
-      internalID: -1392424382
+      spriteID: b7fee1303c9fbeb46b22fe9e6d0ba940
+      internalID: -1603754652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_23
+      name: yamato-sheet_33
       rect:
         serializedVersion: 2
         x: 160
@@ -664,14 +814,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4689980500aa03d489caea93cd5b95f6
-      internalID: 1455164464
+      spriteID: 610fa685a2b033b469011d40c92a31f6
+      internalID: 1368321046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_24
+      name: yamato-sheet_34
       rect:
         serializedVersion: 2
         x: 240
@@ -685,14 +835,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b9899b862908af43a96732f00dfde5b
-      internalID: 1541947231
+      spriteID: b19cc846b7d4eca4d98b4c0396317144
+      internalID: 1101706204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_25
+      name: yamato-sheet_35
       rect:
         serializedVersion: 2
         x: 320
@@ -706,14 +856,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe7314e79382dfc42805fa661b238b92
-      internalID: 1561456033
+      spriteID: bb28060db0621f1428c932ed9cf4403a
+      internalID: 874104935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_26
+      name: yamato-sheet_36
       rect:
         serializedVersion: 2
         x: 400
@@ -727,14 +877,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cb27f8895b1a3a4ba08ade8061d9957
-      internalID: 882735319
+      spriteID: 818163ae87b06b748ad2774866f56c35
+      internalID: 626670766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_27
+      name: yamato-sheet_37
       rect:
         serializedVersion: 2
         x: 480
@@ -748,14 +898,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2958cf90ddcb994d9ad3b34de6f73b3
-      internalID: -1243704849
+      spriteID: 33c5cb3750fc47c47b3a043768114187
+      internalID: -1215435329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_28
+      name: yamato-sheet_38
       rect:
         serializedVersion: 2
         x: 560
@@ -769,29 +919,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1357ba8830c391648bc21466d553551d
-      internalID: -833828965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: yamato-Sheet-no-backwalk_29
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 80
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41638d93848959a44b9bd10af8905212
-      internalID: 819506631
+      spriteID: f8f4c2e713043b344969fc65f63f5ff2
+      internalID: 27563561
       vertices: []
       indices: 
       edges: []
@@ -807,36 +936,45 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      yamato-Sheet-no-backwalk_0: 267216617
-      yamato-Sheet-no-backwalk_1: -461921456
-      yamato-Sheet-no-backwalk_10: 722279387
-      yamato-Sheet-no-backwalk_11: -1029714168
-      yamato-Sheet-no-backwalk_12: -1824254071
-      yamato-Sheet-no-backwalk_13: -686284927
-      yamato-Sheet-no-backwalk_14: 470461020
-      yamato-Sheet-no-backwalk_15: 308388381
-      yamato-Sheet-no-backwalk_16: -335992451
-      yamato-Sheet-no-backwalk_17: 1833575821
-      yamato-Sheet-no-backwalk_18: -1961095693
-      yamato-Sheet-no-backwalk_19: 1526997103
-      yamato-Sheet-no-backwalk_2: -262236612
-      yamato-Sheet-no-backwalk_20: -1355885794
-      yamato-Sheet-no-backwalk_21: -1963232602
-      yamato-Sheet-no-backwalk_22: -1392424382
-      yamato-Sheet-no-backwalk_23: 1455164464
-      yamato-Sheet-no-backwalk_24: 1541947231
-      yamato-Sheet-no-backwalk_25: 1561456033
-      yamato-Sheet-no-backwalk_26: 882735319
-      yamato-Sheet-no-backwalk_27: -1243704849
-      yamato-Sheet-no-backwalk_28: -833828965
-      yamato-Sheet-no-backwalk_29: 819506631
-      yamato-Sheet-no-backwalk_3: -810025804
-      yamato-Sheet-no-backwalk_4: 1259111702
-      yamato-Sheet-no-backwalk_5: -942815903
-      yamato-Sheet-no-backwalk_6: 426663899
-      yamato-Sheet-no-backwalk_7: -151526876
-      yamato-Sheet-no-backwalk_8: -2145992565
-      yamato-Sheet-no-backwalk_9: -1330396138
+      yamato-sheet_0: -1252436633
+      yamato-sheet_1: 1597304716
+      yamato-sheet_10: 452782785
+      yamato-sheet_11: -433529628
+      yamato-sheet_12: -1536088575
+      yamato-sheet_13: 239493824
+      yamato-sheet_14: 1636595817
+      yamato-sheet_15: -1129858922
+      yamato-sheet_16: -397992868
+      yamato-sheet_17: -705332008
+      yamato-sheet_18: 1321669160
+      yamato-sheet_19: -25940994
+      yamato-sheet_2: 429211218
+      yamato-sheet_20: 1559210305
+      yamato-sheet_21: -1817826430
+      yamato-sheet_22: 445535271
+      yamato-sheet_23: -160131108
+      yamato-sheet_24: -785540394
+      yamato-sheet_25: -876328161
+      yamato-sheet_26: -2133079684
+      yamato-sheet_27: -1554311641
+      yamato-sheet_28: 868353579
+      yamato-sheet_29: 920886372
+      yamato-sheet_3: -1629389218
+      yamato-sheet_30: -862105891
+      yamato-sheet_31: 274806830
+      yamato-sheet_32: -1603754652
+      yamato-sheet_33: 1368321046
+      yamato-sheet_34: 1101706204
+      yamato-sheet_35: 874104935
+      yamato-sheet_36: 626670766
+      yamato-sheet_37: -1215435329
+      yamato-sheet_38: 27563561
+      yamato-sheet_4: 701744995
+      yamato-sheet_5: 2077025562
+      yamato-sheet_6: -1716845025
+      yamato-sheet_7: 637475931
+      yamato-sheet_8: -1254226908
+      yamato-sheet_9: -900590524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
