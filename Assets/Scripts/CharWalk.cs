@@ -8,10 +8,7 @@ public class CharWalk : MonoBehaviour
     [SerializeField] BoxCollider2D _yamBox;
     [SerializeField] Animator _yamAnim;
     [SerializeField] Vector2 _move;
-    [SerializeField] float _spdMult;
-    [SerializeField] float _animHori;
-    [SerializeField] float _animVert;
-    [SerializeField] float _animMult;
+    [SerializeField] float _spdMult, _animHori, _animVert, _animMult;
 
     void Walk()
     {
